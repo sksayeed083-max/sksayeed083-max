@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm SK ALam 👋
 
-<!--
-**sksayeed083-max/sksayeed083-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a results-driven **Developer and PSEO Expert** focused on building high-performance web tools and automating search engine visibility. Currently, I am the architect behind **[Creotiv.com](https://creotiv.com)**.
 
-Here are some ideas to get you started:
+### 🛠 What I’m working on:
+- **Creotiv.com:** A platform dedicated to free, browser-based utility tools.
+- **PSEO Automation:** Building systems to generate thousands of high-quality, indexable pages.
+- **Algo-Trading:** Developing custom Pine Script indicators and execution bots.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills:
+- **Languages:** JavaScript, PHP, Python, Pine Script.
+- **Specialties:** Programmatic SEO, Client-side Tools, PLC Logic, Web Automation.
+- **Infrastructure:** Hostinger, GitHub Pages, InfinityFree.
+
+### ⚡ Fun Fact:
+I believe in "Zero Server Dependencies"—building powerful tools that run entirely in the user's browser.
+
+---
+📫 **Connect with me:** [creotiv.com](https://creotiv.com)
